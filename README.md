@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-  - [IAM Administration Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Ticketing System Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IAM Administration Lab](https://github.com/mlakte23/IAM-Administration-Lab)
+  - [Ticketing System Lab](https://github.com/mlakte23/servicenow-cybersecurity-helpdesk)
+  - [Active Directory Lab]()
 
 <h2> 📑 Certifications:</h2>
 
